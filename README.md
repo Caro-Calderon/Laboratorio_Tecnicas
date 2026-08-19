@@ -26,7 +26,7 @@ Se diseñaron las compuertas NOT, AND, OR, XOR y XNOR. Se implementaron dos vers
 ### Simulación
 A continuación se muestra la evidencia de la simulación donde se comprueba que las salidas coinciden con las tablas de verdad teóricas.
 
-*[INSERTA AQUÍ LA CAPTURA DE PANTALLA DE LA SIMULACIÓN DE LAS COMPUERTAS]*
+*[ ]*
 
 ## 2. Parte 2: Detector de Primos (3 bits)
 ### Diseño
@@ -37,7 +37,7 @@ Mediante un mapa de Karnaugh, se obtuvo la siguiente ecuación booleana:
 ### Simulación
 Se simularon las 8 combinaciones posibles. El circuito arroja `1` solo para los números 2, 3, 5 y 7.
 
-*[INSERTA AQUÍ LA CAPTURA DE PANTALLA DE LA SIMULACIÓN DE PRIMOS]*
+*[ ]*
 
 ## 3. Parte 3: Sumador Completo de 1 Bit
 ### Descripción
@@ -46,14 +46,14 @@ Sumador que recibe dos bits y un acarreo de entrada (Cin), generando una suma (S
 ### Simulación
 Se comprobó la tabla de verdad completa (8 estados).
 
-*[INSERTA AQUÍ LA CAPTURA DE PANTALLA DE LA SIMULACIÓN DEL SUMADOR]*
+*[ ]*
 
 ## 4. Implementación en Hardware (Tarjeta de Desarrollo)
 El diseño fue compilado en **Quartus Prime**. 
 - **Entradas:** Se asignaron a los switches (SW) de la tarjeta.
 - **Salidas:** Se asignaron a los LEDs (LEDR / LEDG) de la tarjeta.
 
-*[INSERTA AQUÍ UNA FOTO DE TU TARJETA FPGA EN FUNCIONAMIENTO O CAPTURA DEL PIN PLANNER DE QUARTUS]*
+*[ ]*
 El diseño fue compilado en **Quartus Prime**. 
 - **Entradas:** Se asignaron a los switches (SW) de la tarjeta.
 - **Salidas:** Se asignaron a los LEDs (LEDR / LEDG) de la tarjeta.
